@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{CA4108AA-D47E-432B-8A48-348299EC2F4E}|Default">
+  <MonoDevelop.Ide.ItemProperties.CommentTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewController.cs">
+    <Files>
+      <File FileName="AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="ViewController.designer.cs" Line="1" Column="1" />
+      <File FileName="ImageInfoVC.cs" Line="27" Column="15" />
+      <File FileName="FileHelper.cs" Line="23" Column="1" />
+      <File FileName="ViewController.cs" Line="13" Column="3" />
+      <File FileName="Main.cs" Line="3" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
